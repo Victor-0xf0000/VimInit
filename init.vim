@@ -1,7 +1,7 @@
 set number
 set hidden
-colo onedark
 set tabstop=2
+colo onedark
 " for command mode inverse tab
 
 nnoremap <S-Tab> <<
